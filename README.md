@@ -1,2 +1,7 @@
 # Big-Bang-Project
-A case study of big bang question given by versa company 
+## How to Run
+
+1. Clone this repository
+   ```bash
+   git clone [your-repository-url]
+   cd [repository-name] 
