@@ -10,18 +10,18 @@
 
 ## How to Run
 
+##Option 1: Using git
 1. Clone this repository
    click code > click dropdown > choose copy clone using web URL
    ```bash
    git clone [your-repository-url]
    cd [repository-name]
-
-2. Run in CMD
-   Download qBigBang.js > go to the script folder > right click and open cmd
+##Option 2: Run in CMD
+1. Download qBigBang.js and save in a folder > go to the script folder > right click and choose "open in cmd" or "open in terminal"
    The cmd should shown you the path to your folder. (cd path\to\your\folder)
-   Then, run command:
+   Then, run this command in terminal:
    ```bash
    node big_bang.js
-   You will get script output.json if you open the folder.
+After running, you'll find the output.json file in the same folder.
    
    
